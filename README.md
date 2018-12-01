@@ -119,6 +119,10 @@ https://github.com/Bruinen90/huddle
 ----  
 magpienath#5346  
 https://magpienath.github.io/coding_challenge-11/  
+
+----  
+geno#7358  
+https://gihdz.github.io/huddle-coding-challenge/
   
 
 ## The Rules Are:
